@@ -1,5 +1,8 @@
+#importing libraries
 import cv2
 import mediapipe as mp
+
+#
 mp_drawings=mp.solutions.drawing_utils
 mp_drawings_styles=mp.solutions.drawing_styles
 
